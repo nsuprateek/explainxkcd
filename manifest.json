@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "explainxkcd",
+    "description": "Adds an Explain button on xkcd pages which takes you to the relevant explainxkcd page",
+    "version": "1.0",
+    "action": {
+      "default_icon": "megan.png"
+    }
+  } 
