@@ -5,5 +5,13 @@
     "version": "1.0",
     "action": {
       "default_icon": "megan.png"
-    }
+    },
+    "content_scripts": [
+      {
+        "js": ["content.js"],
+        "matches": [
+          "https://xkcd.com/*"
+        ]
+      }
+    ]
   } 
